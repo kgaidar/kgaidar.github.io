@@ -5,5 +5,8 @@
     <lastmod>2018-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://kgaidar.github.io/images/lamp.png</image:loc>
+    </image:image>
   </url>
 </urlset>

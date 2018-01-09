@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kgaidar.github.io" resolutions="1x" timestamp="1515525272454">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kgaidar.github.io" resolutions="1x" timestamp="1515526905768">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3866146924" ref="index"/>
+    <file name="index.css" crc="3901040290" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,6 +16,9 @@
     <file name="oboi-3840x2160-okean-plyaj-13655.jpg" crc="3958481517" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="lamp.png" crc="4006572905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="408532617" seo="true" mt="1515525238876" redirect="true"/>
+  <file name="index.html" crc="155719613" seo="true" mt="1515526884254" redirect="true"/>
 </manifest>
