@@ -1,1 +1,0 @@
-# kgaidar.github.io
