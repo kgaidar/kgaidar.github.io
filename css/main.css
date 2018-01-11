@@ -7,6 +7,7 @@ h1, h2, h3, h4, h5, h6, p {
 .grid{
     display: grid;
     grid-template-columns: repeat( 2, 1fr , 2fr) ;
+    grid-gap: 20 px;
 .overlay {
 	position: absolute;
 	width: 100%;
