@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kgaidar.github.io/yogurt" resolutions="1x" timestamp="1523208676896">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kgaidar.github.io/yogurt" resolutions="1x" timestamp="1523209288480">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="219265464" ref="phone>index"/>
@@ -7,7 +7,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3790303072" ref="index"/>
+    <file name="index.css" crc="3971511638" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
@@ -49,7 +49,7 @@
     <file name="logo-zeleniy-perekrestok.png" crc="15510652" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="без имени-1.png" crc="4171171828" ref="phone>index:index">
+    <file name="без имени-1.png" crc="4171171828" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="йогурт мокап-восстановлено-u453-fr.png" crc="3816360816" ref="index"/>
@@ -62,6 +62,7 @@
     <file name="йогурт мокап-восстановлено-u2080-fr.png" crc="494204775" ref="phone>index"/>
     <file name="u2089-4.png" crc="4265104754" ref="phone>index"/>
     <file name="йогурт питьевой-u2092-fr.png" crc="3870817716" ref="phone>index"/>
+    <file name="без имени-1-u615-fr.png" crc="357952641" ref="index"/>
   </folder>
-  <file name="index.html" crc="3928234796" seo="true" mt="1523208670123" redirect="true"/>
+  <file name="index.html" crc="268348110" seo="true" mt="1523209262911" redirect="true"/>
 </manifest>
