@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kgaidar.github.io/yogurt" resolutions="1x" timestamp="1523209470829">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kgaidar.github.io/yogurt" resolutions="1x" timestamp="1523212468349">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3971511638" ref="index"/>
+    <file name="index.css" crc="4117317131" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -64,5 +64,5 @@
     </folder>
     <file name="index.html" crc="4046415243" seo="true" mt="1523208438807" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4131034778" seo="true" mt="1523209262911" redirect="true"/>
+  <file name="index.html" crc="101081625" seo="true" mt="1523212446109" redirect="true"/>
 </manifest>
