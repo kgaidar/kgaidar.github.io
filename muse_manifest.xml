@@ -1,103 +1,58 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kgaidar.github.io/yogurt" resolutions="1x" timestamp="1523186371057">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kgaidar.github.io/yogurt" resolutions="1x" timestamp="1523206503192">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="160629066" seo="true" mt="1523204778161" redirect="false"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4277339388" ref="index"/>
-    <file name="nomq_index.css" crc="4105341962" ref="index"/>
+    <file name="index.css" crc="444220233" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="380897831" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="3803043152" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="380897831" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:phone>index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:phone>index"/>
   </folder>
   <folder name="images">
     <file name="йогурт мокап-восстановлено.png" crc="3811096259" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="u166-4.png" crc="316768682" ref="index"/>
-    <file name="йогурт питьевой.png" crc="4285028778" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="йогурт питьевой.png" crc="396247741" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="киви йогурт-u426-fr.png" crc="462205628" ref="index"/>
+    <file name="киви йогурт-u426-fr.png" crc="283712828" ref="index"/>
     <file name="u443-4.png" crc="3766383600" ref="index"/>
     <file name="u456-4.png" crc="3981562715" ref="index"/>
     <file name="u468-4.png" crc="153976931" ref="index"/>
     <file name="киви йогурт.png" crc="260372590" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="u480-4.png" crc="39320249" ref="index"/>
     <file name="logo-5ka.png" crc="18196818" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="logo_lenta1.png" crc="3896964126" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="mat_94640.png" crc="3810187890" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="logo-zeleniy-perekrestok.png" crc="15510652" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="без имени-1.png" crc="4171171828" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="йогурт мокап-восстановлено-u155-fr.png" crc="3990105195" ref="index"/>
-    <file name="u166-42.png" crc="46024404" ref="index"/>
-    <file name="йогурт питьевой-u407-fr.png" crc="3888254293" ref="index"/>
-    <file name="киви йогурт-u426-fr2.png" crc="4158588937" ref="index"/>
-    <file name="u443-42.png" crc="219318956" ref="index"/>
-    <file name="йогурт мокап-восстановлено-u453-fr.png" crc="3889028955" ref="index"/>
-    <file name="u456-42.png" crc="64868248" ref="index"/>
-    <file name="u468-42.png" crc="379727775" ref="index"/>
-    <file name="u480-42.png" crc="4210319973" ref="index"/>
-    <file name="йогурт мокап-восстановлено-u155-fr2.png" crc="4014030998" ref="index"/>
-    <file name="u166-43.png" crc="171917408" ref="index"/>
-    <file name="йогурт питьевой-u407-fr2.png" crc="4138058106" ref="index"/>
-    <file name="киви йогурт-u426-fr3.png" crc="70942074" ref="index"/>
-    <file name="u443-43.png" crc="4119129780" ref="index"/>
-    <file name="без имени-1-u615-fr.png" crc="4287808802" ref="index"/>
-    <file name="йогурт мокап-восстановлено-u453-fr2.png" crc="3832407101" ref="index"/>
-    <file name="u456-43.png" crc="3844956303" ref="index"/>
-    <file name="йогурт питьевой-u465-fr.png" crc="3897360762" ref="index"/>
-    <file name="u468-43.png" crc="3930890281" ref="index"/>
-    <file name="киви йогурт-u477-fr.png" crc="3946322635" ref="index"/>
-    <file name="u480-43.png" crc="3778127082" ref="index"/>
-    <file name="logo-5ka-u492-fr.png" crc="3915385677" ref="index"/>
-    <file name="logo_lenta1-u525-fr.png" crc="467411289" ref="index"/>
-    <file name="mat_94640-u503-fr.png" crc="4133036405" ref="index"/>
-    <file name="logo-zeleniy-perekrestok-u514-fr.png" crc="394801043" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="йогурт мокап-восстановлено-u155-fr3.png" crc="4062015811" ref="index"/>
-    <file name="u166-44.png" crc="4148592327" ref="index"/>
-    <file name="йогурт питьевой-u407-fr3.png" crc="351252581" ref="index"/>
-    <file name="киви йогурт-u426-fr4.png" crc="435239586" ref="index"/>
-    <file name="u443-44.png" crc="3820153885" ref="index"/>
-    <file name="без имени-1-u615-fr2.png" crc="4184080534" ref="index"/>
-    <file name="йогурт мокап-восстановлено-u453-fr3.png" crc="225316063" ref="index"/>
-    <file name="u456-44.png" crc="4139595020" ref="index"/>
-    <file name="йогурт питьевой-u465-fr2.png" crc="220812632" ref="index"/>
-    <file name="u468-44.png" crc="447437072" ref="index"/>
-    <file name="киви йогурт-u477-fr2.png" crc="4265471135" ref="index"/>
-    <file name="u480-44.png" crc="4189665872" ref="index"/>
-    <file name="logo-5ka-u492-fr2.png" crc="94550072" ref="index"/>
-    <file name="logo_lenta1-u525-fr2.png" crc="10234883" ref="index"/>
-    <file name="mat_94640-u503-fr2.png" crc="3998882039" ref="index"/>
-    <file name="logo-zeleniy-perekrestok-u514-fr2.png" crc="3785514658" ref="index"/>
+    <file name="йогурт мокап-восстановлено-u453-fr.png" crc="483992617" ref="index"/>
   </folder>
-  <file name="index.html" crc="93008452" seo="true" mt="1523186331251" redirect="true"/>
+  <file name="index.html" crc="526527231" seo="true" mt="1523206502464" redirect="true"/>
 </manifest>
