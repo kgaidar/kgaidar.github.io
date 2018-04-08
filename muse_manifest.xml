@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kgaidar.github.io/yogurt" resolutions="1x" timestamp="1523218733477">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kgaidar.github.io/yogurt" resolutions="1x" timestamp="1523219375685">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4207917251" ref="index"/>
+    <file name="index.css" crc="20406842" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -18,18 +18,18 @@
     <file name="u2047-4.png" crc="354617763" ref="phone>index"/>
     <file name="u2050-4.png" crc="3994488550" ref="phone>index"/>
     <file name="йогурт мокап-восстановлено-u2053-fr.png" crc="3849388229" ref="phone>index"/>
-    <file name="йогурт питьевой-u2069-fr.png" crc="4151636663" ref="phone>index"/>
+    <file name="йогурт питьевой-u2069-fr.png" crc="125952303" ref="phone>index"/>
     <file name="киви йогурт-u2061-fr.png" crc="12699556" ref="phone>index"/>
-    <file name="без имени-1.png" crc="4171171828" ref="phone>index">
+    <file name="без имени-1.png" crc="4171171828" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u2083-4.png" crc="482710063" ref="phone>index"/>
     <file name="йогурт мокап-восстановлено-u2080-fr.png" crc="494204775" ref="phone>index"/>
     <file name="u2089-4.png" crc="4265104754" ref="phone>index"/>
-    <file name="йогурт питьевой-u2092-fr.png" crc="3870817716" ref="phone>index"/>
+    <file name="йогурт питьевой-u2092-fr.png" crc="3998049635" ref="phone>index"/>
     <file name="u166-4.png" crc="3962867686" ref="index"/>
     <file name="u443-4.png" crc="3845579739" ref="index"/>
-    <file name="йогурт питьевой.png" crc="177630188" ref="index">
+    <file name="йогурт питьевой.png" crc="4094534518" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -56,13 +56,12 @@
     <file name="logo-zeleniy-perekrestok.png" crc="15510652" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="без имени-1-u615-fr.png" crc="357952641" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="219265464" ref="phone>index"/>
+      <file name="index.css" crc="4214587682" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4046415243" seo="true" mt="1523208438807" redirect="true"/>
+    <file name="index.html" crc="3844432191" seo="true" mt="1523219186636" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3698907" seo="true" mt="1523218664568" redirect="true"/>
+  <file name="index.html" crc="3764588875" seo="true" mt="1523219369707" redirect="true"/>
 </manifest>
