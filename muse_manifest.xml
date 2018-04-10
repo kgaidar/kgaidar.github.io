@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kgaidar.github.io/yogurt" resolutions="1x" timestamp="1523395419228">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kgaidar.github.io/yogurt" resolutions="1x" timestamp="1523395529945">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="383372632" ref="index"/>
@@ -65,12 +65,13 @@
     <file name="logo_lenta1-u2215-fr.png" crc="190132637" ref="phone>index"/>
     <file name="mat_94640-u2209-fr.png" crc="390151889" ref="phone>index"/>
     <file name="logo-zeleniy-perekrestok-u2212-fr.png" crc="4034462607" ref="phone>index"/>
+    <file name="йогурт-favicon.ico" crc="3949136100" ref="phone>index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="164731343" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4231360409" seo="true" mt="1523395418282" redirect="true"/>
+    <file name="index.html" crc="171350169" seo="true" mt="1523395519944" redirect="true"/>
   </folder>
   <file name="index.html" crc="3928557085" seo="true" mt="1523394025194" redirect="true"/>
 </manifest>
