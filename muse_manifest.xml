@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kgaidar.github.io/yogurt" resolutions="1x" timestamp="1523219375685">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kgaidar.github.io/yogurt" resolutions="1x" timestamp="1523395419228">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="20406842" ref="index"/>
+    <file name="index.css" crc="383372632" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -20,7 +20,7 @@
     <file name="йогурт мокап-восстановлено-u2053-fr.png" crc="3849388229" ref="phone>index"/>
     <file name="йогурт питьевой-u2069-fr.png" crc="125952303" ref="phone>index"/>
     <file name="киви йогурт-u2061-fr.png" crc="12699556" ref="phone>index"/>
-    <file name="без имени-1.png" crc="4171171828" ref="phone>index:index">
+    <file name="без имени-1.png" crc="4171171828" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u2083-4.png" crc="482710063" ref="phone>index"/>
@@ -33,11 +33,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="йогурт мокап-восстановлено.png" crc="3823585356" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="киви йогурт.png" crc="3861385795" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="йогурт мокап-восстановлено.png" crc="3823585356" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="йогурт мокап-восстановлено-u453-fr.png" crc="3816360816" ref="index"/>
@@ -56,12 +56,21 @@
     <file name="logo-zeleniy-perekrestok.png" crc="15510652" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="логотип йогурта.png" crc="446956344" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2182-4.png" crc="334523754" ref="phone>index"/>
+    <file name="киви йогурт-u2191-fr.png" crc="250927950" ref="phone>index"/>
+    <file name="logo-5ka-u2206-fr.png" crc="49318453" ref="phone>index"/>
+    <file name="logo_lenta1-u2215-fr.png" crc="190132637" ref="phone>index"/>
+    <file name="mat_94640-u2209-fr.png" crc="390151889" ref="phone>index"/>
+    <file name="logo-zeleniy-perekrestok-u2212-fr.png" crc="4034462607" ref="phone>index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4214587682" ref="phone>index"/>
+      <file name="index.css" crc="164731343" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3844432191" seo="true" mt="1523219186636" redirect="true"/>
+    <file name="index.html" crc="4231360409" seo="true" mt="1523395418282" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3764588875" seo="true" mt="1523219369707" redirect="true"/>
+  <file name="index.html" crc="3928557085" seo="true" mt="1523394025194" redirect="true"/>
 </manifest>
