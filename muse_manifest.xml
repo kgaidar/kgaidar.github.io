@@ -1,37 +1,28 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kgaidar.github.io/yogurt" resolutions="1x" timestamp="1524597695818">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kgaidar.github.io/yogurt" resolutions="1x" timestamp="1524600706044">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="66461483" ref="index"/>
     <file name="nomq_index.css" crc="521055045" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
-    <file name="museutils.js" crc="3803043152" ref="phone>index:index"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
-    <file name="museconfig.js" crc="380897831" ref="phone>index:index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="phone>index:index"/>
-    <file name="require.js" crc="4157109226" ref="phone>index:index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u2047-4.png" crc="354617763" ref="phone>index"/>
-    <file name="u2050-4.png" crc="3994488550" ref="phone>index"/>
-    <file name="йогурт мокап-восстановлено-u2053-fr.png" crc="3849388229" ref="phone>index"/>
-    <file name="йогурт питьевой-u2069-fr.png" crc="125952303" ref="phone>index"/>
-    <file name="киви йогурт-u2061-fr.png" crc="12699556" ref="phone>index"/>
     <file name="без имени-1.png" crc="4171171828" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u2083-4.png" crc="482710063" ref="phone>index"/>
-    <file name="йогурт мокап-восстановлено-u2080-fr.png" crc="494204775" ref="phone>index"/>
-    <file name="u2089-4.png" crc="4265104754" ref="phone>index"/>
-    <file name="йогурт питьевой-u2092-fr.png" crc="3998049635" ref="phone>index"/>
     <file name="u166-4.png" crc="316768682" ref="index"/>
     <file name="u443-4.png" crc="3783980733" ref="index"/>
     <file name="йогурт питьевой.png" crc="4094534518" ref="index">
@@ -69,16 +60,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="логотип йогурта.png" crc="446956344" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u2182-4.png" crc="334523754" ref="phone>index"/>
-    <file name="киви йогурт-u2191-fr.png" crc="250927950" ref="phone>index"/>
-    <file name="logo-5ka-u2206-fr.png" crc="49318453" ref="phone>index"/>
-    <file name="logo_lenta1-u2215-fr.png" crc="190132637" ref="phone>index"/>
-    <file name="mat_94640-u2209-fr.png" crc="390151889" ref="phone>index"/>
-    <file name="logo-zeleniy-perekrestok-u2212-fr.png" crc="4034462607" ref="phone>index"/>
-    <file name="йогурт-favicon.ico" crc="3949136100" ref="phone>index"/>
     <file name="u166-42.png" crc="3860893796" ref="index"/>
     <file name="u443-42.png" crc="4251486236" ref="index"/>
     <file name="йогурт мокап-восстановлено-u453-fr2.png" crc="505127785" ref="index"/>
@@ -118,12 +99,5 @@
     <file name="logo_lenta1-u525-fr2.png" crc="4195515372" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="4056508046" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="3941118324" seo="true" mt="1524250505980" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="4001583917" seo="true" mt="1524597640919" redirect="true"/>
+  <file name="index.html" crc="312568440" seo="true" mt="1524600700089" redirect="true"/>
 </manifest>
