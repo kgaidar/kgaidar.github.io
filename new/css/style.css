@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+#header{
+	background-color: #123EA3;
+	height: 80px;
+}
+.header-info,.number{
+	color: white;
+	display: inline-block;
+	margin: 20px 0 0 30px; 
+}
+.number{
+	float: right;
+	padding-right: 30px;
+}
+.content{
+	width: 100%;
+}
+img{
+	width: 40%;
+	height: auto;
+}
+figure{
+	display: block;
+	padding: 20px 20px;
+	text-align: center;
+}
+p{
+	text-align: center;
+	margin: 20px 20px;
+}
