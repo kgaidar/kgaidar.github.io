@@ -99,3 +99,11 @@ img{
 	#header{
 		height: 120px;
 }
+@media screen and (max-width: 720px)
+{
+	figure{
+		margin-right: 0;
+		margin-left: 0;
+		width: 100%;
+	}
+}

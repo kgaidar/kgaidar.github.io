@@ -1,0 +1,26 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+	background: #B83A99;
+}
+
+.logo{
+	width: 10%;
+	display: block;
+	margin: auto;
+	margin-top: 5em;
+}
+
+img{
+	width: 100%
+}
+
+.links{
+	text-align: center;
+	margin-top: 20em;
+	color: white;
+}
