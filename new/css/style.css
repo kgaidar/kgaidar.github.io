@@ -65,6 +65,12 @@ img{
 	margin-right: 20%;
 	margin-left: 20%;
 }
+
+.end{
+	width: auto;
+	margin-bottom: 10px;
+	text-align: center;
+}
 @media screen and (max-width: 840px) {
 	.header-info,.number{
 	margin: auto;
