@@ -2,41 +2,92 @@
 	margin: 0;
 	padding: 0;
 }
+
 body{
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 }
+
 #header{
 	background-color: #123EA3;
 	height: 80px;
 	width: 100%;
 }
+
 .header-info,.number{
 	color: white;
 	display: inline-block;
-	padding: 0 10px;
+	padding: 0.4em 0.2em;
     text-transform: uppercase;
     text-decoration: none;
 }
+
 .number{
 	float: right;
 	padding-right: 30px;
 }
+
+#about{
+	text-align: center;
+	margin-top: 1em;
+}
+
 .content{
 	width: 100%;
 }
+
 figure{
+	width: 40%;
+	clear: both;
+	display: flex;
+	justify-content: center;
 	margin-left: 10%;
 	margin-right: 10%;
+	margin-top: 15px;
+	margin-left:auto;
+	margin-right:auto;
 }
+
 img{
 	max-width: 100%;
-	height: auto;
+}
+
+#contact{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	margin-left: auto;
+	margin-top: auto;
 }
  
 .description {
-	margin-top: 2em;
+	margin-top: 1em;
 	text-align: left;
-	margin-right: 10%;
-	margin-left: 10%;
+	margin-right: 20%;
+	margin-left: 20%;
+}
+@media screen and (max-width: 840px) {
+	.header-info,.number{
+	margin: auto;
+	color: white;
+	display: block;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 20px;
+	}
+	.header-info{
+		padding: 10px 15px;
+	}
+	.number{
+		padding-right: 15px;
+		color: orange;
+	}
+}
+@media screen and (max-width: 400px) {
+	figure{
+		width: 95%;
+	}
+
+@media screen and (max-width: 325px) {
+	#header{
+		height: 120px;
 }
