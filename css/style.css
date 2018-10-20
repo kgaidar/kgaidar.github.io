@@ -10,15 +10,16 @@ body{
 
 .logo{
 	width: 10%;
-	display: block;
-	margin: auto;
-	margin-top: 5em;
+	margin: 10em auto 0;
 }
 
 img{
-	width: 100%
+	width: 100%;
+	margin: 0 auto 0;
+	text-align: center;
 }
-
+.contact{
+}
 .links{
 	text-align: center;
 	margin-top: 20em;
