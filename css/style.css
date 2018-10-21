@@ -33,5 +33,6 @@ img{
 @media screen and (max-width: 960px){
 	.logo{
 		width: 40%
+		margin: 10em auto 0;
 	}
 }
